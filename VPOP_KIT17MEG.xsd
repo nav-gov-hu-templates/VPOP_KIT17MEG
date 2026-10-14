@@ -2,10 +2,10 @@
 <schema xmlns="http://www.w3.org/2001/XMLSchema"
         xmlns:baseForm="https://soap.api.nav.gov.hu/definitions/model/2.0/baseForm/1.0"
         xmlns:meta="https://api.nav.gov.hu/definitions/form_xsd_metaschema/1.0"
-        xmlns:tns="https://soap.api.nav.gov.hu/definitions/model/2.0/VPOP_KIT17MEG/1.8"
+        xmlns:tns="https://soap.api.nav.gov.hu/definitions/model/2.0/VPOP_KIT17MEG/1.9"
         xmlns:xs="http://www.w3.org/2001/XMLSchema"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        targetNamespace="https://soap.api.nav.gov.hu/definitions/model/2.0/VPOP_KIT17MEG/1.8">
+        targetNamespace="https://soap.api.nav.gov.hu/definitions/model/2.0/VPOP_KIT17MEG/1.9">
    <import namespace="https://api.nav.gov.hu/definitions/form_xsd_metaschema/1.0"
            schemaLocation="form_xsd_metaschema.xsd"/>
    <import namespace="https://soap.api.nav.gov.hu/definitions/model/2.0/baseForm/1.0"
